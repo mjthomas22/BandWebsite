@@ -10,9 +10,9 @@ li {
 }
 
 body {
-    background-color: midnightblue;
+    background-color: #6F80E8;
     font-family: 'Fresca', sans-serif;
-    
+    text-align:center;
 }
 p {
     color: wheat;
@@ -22,6 +22,7 @@ h1 {
     color:wheat;
 }
 img{
+    display:block;
     margin-left:auto;
     margin-right:auto;
 }
